@@ -221,10 +221,14 @@ time.sleep(5)
 # 关闭果园生长模型
 #driver.find_element_by_xpath("//div[contains(@class,'iconfont grow-tree-closebtn')]").click()
 
-# 识别要悬停的元素
-ele = driver.find_element_by_xpath("//div[contains(@class,'leaflet-marker-icon google-map-cluster leaflet-zoom-animated leaflet-interactive')]")
-# 鼠标悬停至元素
-ActionChains(driver).move_to_element(ele).perform()
+try:
+    # 识别要悬停的元素
+    ele = driver.find_element_by_xpath("//div[contains(@class,'leaflet-marker-icon google-map-cluster leaflet-zoom-animated leaflet-interactive')]")
+    # 鼠标悬停至元素
+    ActionChains(driver).move_to_element(ele).perform()
+except NoSuchElementException:
+    print("元素不存在，跳过")
+
 time.sleep(3)
 # win32api.mouse_event(win32con.MOUSEEVENTF_WHEEL, 0, 0, 300)
 # time.sleep(2)
@@ -340,7 +344,7 @@ time.sleep(3)
 # 点击图标选择日期
 driver.find_element_by_xpath("//*[@id='app']/div[3]/section[2]/div/div[2]/div/div[1]/div[1]/input").click()
 time.sleep(1)
-driver.find_element_by_xpath("//span[contains(text(),'3 月') and @class='el-date-picker__header-label']").click()
+driver.find_element_by_xpath("//span[contains(text(),'4 月') and @class='el-date-picker__header-label']").click()
 time.sleep(1)
 driver.find_element_by_xpath("//a[contains(text(),'三月')]").click()
 time.sleep(1)
