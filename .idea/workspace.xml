@@ -1,10 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="da989689-5465-4f95-8fe8-df4dbbb94e4f" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/re/ball.py" afterDir="false" />
+    <list default="true" id="da989689-5465-4f95-8fe8-df4dbbb94e4f" name="Default Changelist" comment="sakura Demo">
+      <change afterPath="$PROJECT_DIR$/re/clock.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/re/login.py" beforeDir="false" afterPath="$PROJECT_DIR$/re/login.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/re/traceTestDemoRun.py" beforeDir="false" afterPath="$PROJECT_DIR$/re/traceTestDemoRun.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -17,8 +18,20 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/re/login.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1235">
-              <caret line="312" lean-forward="true" selection-start-line="312" selection-end-line="312" />
+            <state relative-caret-position="299">
+              <caret line="105" column="60" lean-forward="true" selection-start-line="105" selection-start-column="60" selection-end-line="105" selection-end-column="60" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/re/clock.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="2781">
+              <caret line="104" column="30" selection-start-line="104" selection-start-column="30" selection-end-line="104" selection-end-column="30" />
+              <folding>
+                <element signature="e#16#29#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -26,11 +39,10 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/re/traceTestDemoRun.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="432">
-              <caret line="49" lean-forward="true" selection-start-line="49" selection-end-line="49" />
+            <state relative-caret-position="2646">
+              <caret line="111" column="20" selection-start-line="111" selection-start-column="20" selection-end-line="111" selection-end-column="20" />
               <folding>
                 <element signature="e#545#566#0" />
-                <element signature="e#1241#1336#1" />
               </folding>
             </state>
           </provider>
@@ -39,8 +51,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/re/doge.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="702">
-              <caret line="26" column="6" selection-start-line="26" selection-start-column="6" selection-end-line="26" selection-end-column="6" />
+            <state relative-caret-position="1890">
+              <caret line="70" column="9" selection-start-line="70" selection-start-column="9" selection-end-line="70" selection-end-column="9" />
             </state>
           </provider>
         </entry>
@@ -48,10 +60,19 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/re/ball.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-567">
-              <caret line="3" column="1" lean-forward="true" selection-start-line="3" selection-start-column="1" selection-end-line="3" selection-end-column="1" />
+            <state relative-caret-position="270">
+              <caret line="12" column="21" selection-start-line="12" selection-start-column="21" selection-end-line="12" selection-end-column="21" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/re/sakura.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="783">
+              <caret line="31" column="14" selection-start-line="31" selection-start-column="14" selection-end-line="31" selection-end-column="14" />
               <folding>
-                <element signature="e#0#21#0" expanded="true" />
+                <element signature="e#0#18#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -84,15 +105,18 @@
         <option value="$PROJECT_DIR$/re/demo.py" />
         <option value="$PROJECT_DIR$/re/1.py" />
         <option value="$PROJECT_DIR$/re/doge.py" />
-        <option value="$PROJECT_DIR$/re/traceTestDemoRun.py" />
-        <option value="$PROJECT_DIR$/re/login.py" />
         <option value="$PROJECT_DIR$/re/ball.py" />
+        <option value="$PROJECT_DIR$/re/sakura.py" />
+        <option value="$PROJECT_DIR$/re/setup.py" />
+        <option value="$PROJECT_DIR$/re/traceTestDemoRun.py" />
+        <option value="$PROJECT_DIR$/re/clock.py" />
+        <option value="$PROJECT_DIR$/re/login.py" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="449" />
-    <option name="y" value="-8" />
+    <option name="x" value="130" />
+    <option name="y" value="-9" />
     <option name="width" value="960" />
     <option name="height" value="728" />
   </component>
@@ -138,8 +162,9 @@
   </component>
   <component name="PropertiesComponent">
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
-    <property name="last_opened_file_path" value="E:/Git/Git/bin/git.exe" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/re/login.py" />
     <property name="settings.editor.selected.configurable" value="settings.github" />
+    <property name="two.files.diff.last.used.file" value="$PROJECT_DIR$/re/login.py" />
     <property name="two.files.diff.last.used.folder" value="$PROJECT_DIR$" />
   </component>
   <component name="RecentsManager">
@@ -162,7 +187,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.ball">
+  <component name="RunManager" selected="Python.clock">
     <configuration name="ball" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="SeleniumDemo" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -184,7 +209,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="doge" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="clock" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="SeleniumDemo" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -196,7 +221,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/re/doge.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/re/clock.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -205,7 +230,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="login" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="login" type="PythonConfigurationType" factoryName="Python">
       <module name="SeleniumDemo" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -218,6 +243,48 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/re/login.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="sakura" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="SeleniumDemo" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/re" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/re/sakura.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="setup" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="SeleniumDemo" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/re" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/re/setup.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -240,27 +307,13 @@
       <option name="_new_targetType" value="&quot;PYTHON&quot;" />
       <method v="2" />
     </configuration>
-    <configuration name="Unittests for traceTestDemoRun.traceTestDemo.test_login" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
-      <module name="SeleniumDemo" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/re" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;traceTestDemoRun.traceTestDemo.test_login&quot;" />
-      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
-      <method v="2" />
-    </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.ball" />
-        <item itemvalue="Python.login" />
-        <item itemvalue="Python tests.Unittests for traceTestDemoRun.traceTestDemo.test_login" />
-        <item itemvalue="Python.doge" />
+        <item itemvalue="Python.clock" />
         <item itemvalue="Python tests.Unittests for traceTestDemoRun.traceTestDemo" />
+        <item itemvalue="Python.sakura" />
+        <item itemvalue="Python.setup" />
+        <item itemvalue="Python.ball" />
       </list>
     </recent_temporary>
   </component>
@@ -282,13 +335,31 @@
       <option name="project" value="LOCAL" />
       <updated>1585795581026</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="添加一个小球Demo">
+      <created>1586237597510</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1586237597510</updated>
+    </task>
+    <task id="LOCAL-00003" summary="代码更新">
+      <created>1586934779910</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1586934779910</updated>
+    </task>
+    <task id="LOCAL-00004" summary="sakura Demo">
+      <created>1586934821822</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1586934821822</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="Unittests_for_traceTestDemoRun_traceTestDemo_test_login - 2020.02.28 at 15h 12m 08s.xml">
-      <configuration name="Unittests for traceTestDemoRun.traceTestDemo.test_login" configurationId="tests" />
-    </history-entry>
     <history-entry file="Unittests_for_traceTestDemoRun_traceTestDemo_test_login - 2020.02.28 at 15h 13m 52s.xml">
       <configuration name="Unittests for traceTestDemoRun.traceTestDemo.test_login" configurationId="tests" />
     </history-entry>
@@ -316,6 +387,9 @@
     <history-entry file="Unittests_for_traceTestDemoRun_traceTestDemo_test_login - 2020.04.01 at 16h 29m 56s.xml">
       <configuration name="Unittests for traceTestDemoRun.traceTestDemo.test_login" configurationId="tests" />
     </history-entry>
+    <history-entry file="Unittests_for_traceTestDemoRun_traceTestDemo_test_login - 2020.04.11 at 11h 28m 48s.xml">
+      <configuration name="Unittests for traceTestDemoRun.traceTestDemo.test_login" configurationId="tests" />
+    </history-entry>
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -328,22 +402,21 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
-    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.13160677" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.12843552" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.49524313" visible="true" weight="0.25194228" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.53541225" weight="0.18867925" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.3018868" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="6" weight="0.1653718" />
-      <window_info anchor="bottom" id="Version Control" order="7" weight="0.23973364" />
-      <window_info anchor="bottom" id="Terminal" order="8" weight="0.32963374" />
-      <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.50475687" side_tool="true" weight="0.21753608" />
-      <window_info anchor="bottom" id="Python Console" order="10" sideWeight="0.49947146" weight="0.3762486" />
+      <window_info anchor="bottom" id="TODO" order="6" sideWeight="0.49947146" weight="0.1653718" />
+      <window_info anchor="bottom" id="Version Control" order="7" sideWeight="0.4989429" weight="0.21975583" />
+      <window_info anchor="bottom" id="Terminal" order="8" sideWeight="0.49947146" weight="0.281909" />
+      <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.46458775" side_tool="true" weight="0.2663707" />
+      <window_info anchor="bottom" id="Python Console" order="10" sideWeight="0.4989429" weight="0.21864595" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -400,8 +473,10 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
+    <MESSAGE value="添加一个小球Demo" />
     <MESSAGE value="代码更新" />
-    <option name="LAST_COMMIT_MESSAGE" value="代码更新" />
+    <MESSAGE value="sakura Demo" />
+    <option name="LAST_COMMIT_MESSAGE" value="sakura Demo" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/re/__init__.py" />
@@ -499,38 +574,55 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/re/doge.py">
+    <entry file="file://$PROJECT_DIR$/re/setup.py" />
+    <entry file="file://$PROJECT_DIR$/re/login.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="702">
-          <caret line="26" column="6" selection-start-line="26" selection-start-column="6" selection-end-line="26" selection-end-column="6" />
+        <state relative-caret-position="299">
+          <caret line="105" column="60" lean-forward="true" selection-start-line="105" selection-start-column="60" selection-end-line="105" selection-end-column="60" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/re/clock.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2781">
+          <caret line="104" column="30" selection-start-line="104" selection-start-column="30" selection-end-line="104" selection-end-column="30" />
+          <folding>
+            <element signature="e#16#29#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/re/traceTestDemoRun.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="432">
-          <caret line="49" lean-forward="true" selection-start-line="49" selection-end-line="49" />
+        <state relative-caret-position="2646">
+          <caret line="111" column="20" selection-start-line="111" selection-start-column="20" selection-end-line="111" selection-end-column="20" />
           <folding>
             <element signature="e#545#566#0" />
-            <element signature="e#1241#1336#1" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/re/doge.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1890">
+          <caret line="70" column="9" selection-start-line="70" selection-start-column="9" selection-end-line="70" selection-end-column="9" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/re/ball.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-567">
-          <caret line="3" column="1" lean-forward="true" selection-start-line="3" selection-start-column="1" selection-end-line="3" selection-end-column="1" />
-          <folding>
-            <element signature="e#0#21#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="270">
+          <caret line="12" column="21" selection-start-line="12" selection-start-column="21" selection-end-line="12" selection-end-column="21" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/re/login.py">
+    <entry file="file://$PROJECT_DIR$/re/sakura.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1235">
-          <caret line="312" lean-forward="true" selection-start-line="312" selection-end-line="312" />
+        <state relative-caret-position="783">
+          <caret line="31" column="14" selection-start-line="31" selection-start-column="14" selection-end-line="31" selection-end-column="14" />
+          <folding>
+            <element signature="e#0#18#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>

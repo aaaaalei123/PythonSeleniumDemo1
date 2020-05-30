@@ -102,7 +102,7 @@ while True:
         time.sleep(1)
 
     '''
-    # 2、截取屏幕内容，保存到本地
+    # 2、截取屏幕内容，保存到本地请按住滑块，拖动到最右边
     driver.get_screenshot_as_file(u"D:\\imagesDemo\\01.png")
 
     # 3、打开截图，获取验证码位置，截取保存验证码

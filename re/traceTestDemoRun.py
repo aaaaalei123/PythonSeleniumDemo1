@@ -28,7 +28,9 @@ class traceTestDemo(unittest.TestCase):
     #     # time.sleep(3)
     #     # self.driver.quit()
 
-    # 登录
+    '''
+    登录
+    '''
     def test_login(self):
         # 用户名元素
         nameElement = self.driver.find_element(By.NAME, 'login-name')
